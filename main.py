@@ -13,7 +13,7 @@ load_dotenv()
 API_KEY = os.getenv('API_KEY')
 CHAT_ID = os.getenv('CHAT_ID')
 
-bot = Bot(token=API_KEY)
+bot = Bot(token=8871947532:AAHlSQe5eQNSN74P_vZyabSM81AVlryeZOg)
 
 headers = {'User-Agent': 'TelegramBot (like TwitterBot)'}
 SEM_LIMIT = 5  
